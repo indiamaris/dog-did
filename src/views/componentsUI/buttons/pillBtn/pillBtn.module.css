@@ -1,0 +1,10 @@
+.pillBtn{
+     font-size: 20px;
+     color: #FFC125;
+     background: linear-gradient(45deg, 
+                                #FFD700 0%, 
+                                #FFEC8B 25%, 
+                                #FFD700 50%, 
+                                #FFC125 75%, 
+                                #FFD700 100%);
+}
